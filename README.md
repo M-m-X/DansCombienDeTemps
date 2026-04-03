@@ -33,4 +33,4 @@ Le script peut être utilisé dans Jeedom via une commande script PHP.
 
 ## Fichier
 
-- `heures_creuses.php`
+- `DansCombienDeTemps.php`
